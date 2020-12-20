@@ -1,0 +1,111 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0px;
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif ;
+}
+.logo{
+    width: 40%;
+    padding: 39px;
+    float: left;
+}
+.logo-text{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 140px;
+}
+.login{
+    width: 50%;
+    float: left
+}
+.login-label{
+    color: white;
+    font-size: 14px;
+}
+
+.login-controls{
+    padding: 13px;
+}
+.forgotten{
+    font-size: 14px;
+    text-decoration:none;
+    color: #9cb4d8;
+}
+.submit-btn{
+    color: white;
+    background-color: #4267b2;
+    height: 22px;
+    width: 55px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.submit-btn:hover{
+    background-color:royalblue
+}
+.main-body{
+    width: 100%;
+    height: 610px;
+    background-color:lavender
+}
+.main-left{
+    width: 55%;
+    float: left;
+    padding-left: 30px;
+}
+.main-right{
+    widows: 45%;
+    float: left;
+}
+.image-size{
+    width: 700px;
+    height: 400px;
+}
+.free{
+    font-size: 20px;
+}
+#month{
+    border: 1px solid;
+    width:200px;
+    height:25px
+}
+#dayYear{
+    border:1px solid;
+    width: 80px;
+    height: 25px;
+}
+.flname{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;   
+}
+.other-details{
+    width: 415px;
+    height: 25px;
+    float:left;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: white;
+}
+.birthday{
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.question{
+    font-size: 12px;
+    color:#3b5998 ;
+}
+.signup-bt{
+    color: white;
+    font-weight: bold;
+    background: darkgreen;
+    width: 112px;
+    height: 30px;
+    margin-left: 100px;
+}
